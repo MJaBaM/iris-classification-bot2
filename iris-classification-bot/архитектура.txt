@@ -1,0 +1,22 @@
+iris-classification-bot/
+│
+├── api/
+│   ├── app.py
+│   ├── model.py
+│   ├── requirements.txt
+│   └── iris_model.pkl
+│
+├── bot/
+│   ├── app.py
+│   ├── keyboards.py
+│   ├── requirements.txt
+│
+├── data/
+│   └── examples.csv
+│
+├── docs/
+│   └── presentation.pdf
+│
+├── .env                 # файл с переменными окружения
+├── README.md
+└── requirements.txt     # объединённый (опционально)

@@ -1,0 +1,19 @@
+# iris-classification-bot/requirements.txt
+
+# API
+flask
+numpy
+scikit-learn
+pandas
+
+# Бот
+pyTelegramBotAPI
+requests
+matplotlib
+pillow
+qrcode
+fpdf
+gspread
+oauth2client
+SpeechRecognition
+schedule

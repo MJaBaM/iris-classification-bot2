@@ -1,0 +1,31 @@
+2025-06-04 10:28:46,992 - INFO - Starting bot...
+2025-06-04 10:29:54,306 - ERROR - Infinity polling: polling exited
+2025-06-04 10:29:54,306 - ERROR - Break infinity polling
+2025-06-04 10:31:06,468 - INFO - Starting bot...
+2025-06-04 10:32:20,148 - ERROR - Infinity polling: polling exited
+2025-06-04 10:32:20,148 - ERROR - Break infinity polling
+2025-06-04 10:32:22,647 - INFO - Starting bot...
+2025-06-04 10:35:31,117 - ERROR - Infinity polling: polling exited
+2025-06-04 10:35:31,117 - ERROR - Break infinity polling
+2025-06-04 10:35:34,306 - INFO - Starting bot...
+2025-06-04 10:39:58,299 - ERROR - Infinity polling: polling exited
+2025-06-04 10:39:58,299 - ERROR - Break infinity polling
+2025-06-04 10:48:29,362 - INFO - Starting bot...
+2025-06-04 10:50:58,634 - ERROR - Error processing CSV: Expecting value: line 1 column 1 (char 0)
+2025-06-04 10:52:31,584 - ERROR - Infinity polling: polling exited
+2025-06-04 10:52:31,788 - ERROR - Break infinity polling
+2025-06-04 10:53:19,248 - INFO - Starting bot...
+2025-06-04 10:53:37,303 - ERROR - Error processing CSV: Expecting value: line 1 column 1 (char 0)
+2025-06-04 10:56:28,899 - ERROR - Infinity polling: polling exited
+2025-06-04 10:56:28,920 - ERROR - Break infinity polling
+2025-06-04 10:56:36,518 - INFO - Starting bot...
+2025-06-04 10:56:51,897 - ERROR - Critical error in handle_csv_file: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+2025-06-04 10:57:35,259 - ERROR - Critical error in handle_csv_file: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+2025-06-04 10:59:06,959 - ERROR - Infinity polling: polling exited
+2025-06-04 10:59:06,959 - ERROR - Break infinity polling
+2025-06-04 10:59:11,765 - INFO - Starting bot...
+2025-06-04 11:00:11,167 - ERROR - Infinity polling: polling exited
+2025-06-04 11:00:11,237 - ERROR - Break infinity polling
+2025-06-04 11:01:41,957 - INFO - Starting bot...
+2025-06-04 11:06:59,525 - ERROR - Error processing message: Expecting value: line 1 column 1 (char 0)
+2025-06-04 11:07:11,658 - ERROR - Error processing message: Expecting value: line 1 column 1 (char 0)

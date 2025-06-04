@@ -1,0 +1,11 @@
+pyTelegramBotAPI==4.8.0
+requests
+pandas
+matplotlib
+qrcode
+fpdf
+gspread
+oauth2client
+SpeechRecognition
+Pillow
+schedule

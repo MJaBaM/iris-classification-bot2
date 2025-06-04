@@ -1,0 +1,10 @@
+cd C:\Users\kiril\Desktop\итоговая
+
+cd api
+python model.py
+python app.py
+
+cd C:\Users\kiril\Desktop\итоговая
+cd bot
+python app.py
+
